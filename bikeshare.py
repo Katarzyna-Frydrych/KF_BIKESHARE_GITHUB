@@ -20,7 +20,7 @@ def get_filters():
     # 1 TO DO - check for input validation for city
     # ask the user to input city (chicago (ch), new york city (ny), washington(w)
     while True:
-        city = input("Please, pick a city to analyze:(ch) for chicago or (ny) for new_york_city or (w) for washington:\n").lower()
+        city = input("Please, pick an abbreviation of city to analyze:(ch) for chicago or (ny) for new_york_city or (w) for washington:\n").lower()
         if city in CITY_DATA.keys():
             break
         else:
