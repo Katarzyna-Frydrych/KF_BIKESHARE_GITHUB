@@ -4,7 +4,7 @@
 The project was created on 04/21/2023
 
 ### Project Title
-Bikeshare analyze
+Bikeshare data analysis
 
 ### Description
 The program is used to display statistics on the total and average trip duration or to display statistics on the most frequent times of travel.
